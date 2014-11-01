@@ -43,6 +43,7 @@
 |32. |SHA    | 相机模型Dummy Cameras     <br><i class="icon-camera"></i> Prosilica GC 1/7; <br><i class="icon-camera"></i> Stingray 2/7; <br><i class="icon-camera"></i> Manta 3/7; <br><i class="icon-camera"></i> Pike 4/7; <br><i class="icon-camera"></i> Goldeye G032 Dummy 5/7; <br><i class="icon-camera"></i> Bigeye 6/7; <br><i class="icon-camera"></i> Guppy 7/7; |7个	|Jolie	|2014-10-25	| <font color="red">Jolie随身携带</font> <i class="icon-plane"></i> |
 |33. |SZ | 超大水雾加温器 |1个	|Yijun	|2014-10-30	| Yijun随身携带 <img src="http://cdn-img.easyicon.net/png/114/11446.png" width="20" height="24">|
 |34. |SHA    | 3个演示简介打印页 |3页	|Jolie	|2014-11-01	| <font color="red">Jolie随身携带 </font><i class="icon-plane"></i> |
+|34. |SHA    | 3个相机参数简介打印页 |3页	|Jolie	|2014-11-01	| <font color="red">Jolie随身携带 </font><i class="icon-plane"></i> |
 
 
 
